@@ -64,7 +64,7 @@
 /******/
 /******/ 	// script path function
 /******/ 	function jsonpScriptSrc(chunkId) {
-/******/ 		return __webpack_require__.p + "" + ({"default~views-base-base-module~views-buttons-buttons-module~views-dashboard-dashboard-module":"default~views-base-base-module~views-buttons-buttons-module~views-dashboard-dashboard-module","default~views-dashboard-dashboard-module~views-theme-theme-module~views-widgets-widgets-module":"default~views-dashboard-dashboard-module~views-theme-theme-module~views-widgets-widgets-module","common":"common","views-dashboard-dashboard-module":"views-dashboard-dashboard-module","views-base-base-module":"views-base-base-module","views-buttons-buttons-module":"views-buttons-buttons-module","views-widgets-widgets-module":"views-widgets-widgets-module","views-theme-theme-module":"views-theme-theme-module","views-chartjs-chartjs-module":"views-chartjs-chartjs-module","views-icons-icons-module":"views-icons-icons-module","views-notifications-notifications-module":"views-notifications-notifications-module"}[chunkId]||chunkId) + "-es2015.js"
+/******/ 		return __webpack_require__.p + "" + ({"default~pages-auth-auth-module~pages-reports-reports-module~views-dashboard-dashboard-module":"default~pages-auth-auth-module~pages-reports-reports-module~views-dashboard-dashboard-module","common":"common","pages-auth-auth-module":"pages-auth-auth-module","pages-reports-reports-module":"pages-reports-reports-module","views-dashboard-dashboard-module":"views-dashboard-dashboard-module","pages-transactions-transactions-module":"pages-transactions-transactions-module"}[chunkId]||chunkId) + "-es2015.js"
 /******/ 	}
 /******/
 /******/ 	// The require function
